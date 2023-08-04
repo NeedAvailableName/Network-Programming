@@ -1,0 +1,5 @@
+MEM01 admin admin 1
+MEM02 bien bien 1
+MEM03 dang dang 1
+MEM04 lam lam 1
+MEM05 network netwol 1

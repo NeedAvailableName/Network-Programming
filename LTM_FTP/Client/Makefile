@@ -1,0 +1,1 @@
+g++ -o client Client.cpp -lws2_32

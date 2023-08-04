@@ -1,0 +1,4 @@
+hust hust123 1
+abc abc 0
+ict ict123 1
+soict soict123 0
